@@ -12,7 +12,7 @@ const careerJourney = [
         title: "Internal IT Admin",
         company: "Carabao Cloud Solutions Inc.",
         description: "Remote Monitoring and Management of Windows Devices",
-        skills: ["CyberSecurity", "Remote Monitoring", "Technical Support"]
+        skills: ["Cybersecurity", "Remote Monitoring", "Technical Support"]
     },
     // Add more entries as needed
 ];
