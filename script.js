@@ -14,6 +14,13 @@ const careerJourney = [
         description: "Remote Monitoring and Management of Windows Devices",
         skills: ["Cybersecurity", "Remote Monitoring", "Technical Support"]
     },
+    {
+	year: "sample entry",
+	title: "sample entry",
+	company: "sample entry",
+	description: "sample entry",
+	skills: ["sample", "sample2"]
+    },
     // Add more entries as needed
 ];
 
